@@ -1,0 +1,57 @@
+.about {
+  display: block;
+  margin-left: 10px;
+}
+
+.about-heading {
+  color: #524A4E;
+  margin: 0;
+}
+
+.about-para {
+  display: inline-block;
+  margin-left: 20px;
+  width: 70%;
+}
+
+body {
+  margin: 0;
+  background-color: #FFF6FB;
+}
+
+.column {
+  padding: 5px;
+  margin-left: 5px;
+}
+
+.gallery {
+    color: #524A4E;
+    margin: 10px;
+}
+
+.heading {
+  color: #FDEFF4;
+  margin: 0;
+}
+hr {
+  background-color: #524A4E;
+  border-style: none;
+  height: 2px;
+  margin: 10px;
+}
+.i {
+  margin-left: 8px;
+  height: 25%;
+  width: 24%;
+}
+
+.img {
+  float: left;
+  height: 25%;
+  width: 25%;
+}
+
+.top {
+  background-color: #524A4E;
+  padding: 10px;
+}
